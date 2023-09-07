@@ -30,3 +30,5 @@ Hi there! i´m Andre ! 😁
   <a href=https://www.linkedin.com/in/andre-maia-74b9a5162/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+  ![Snake animation](https://github.com/Andre-Maia-85/Andre-Maia-85/blob/output/github-contribution-grid-snake.svg)
