@@ -13,7 +13,11 @@ Hi there! i´m Andre ! 😁
 - 🖥 currently learning **Java**
 - 📩 How to reach me : **amc95466@gmail.com**
 
-  ![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreMaia&show_icons=true&theme=radical)
+   <div>
+ <a href="https://github.com/Andre-Maia-85">
+ <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Andre-Maia-85&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Maia-85&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  </div> 
   
 
 
